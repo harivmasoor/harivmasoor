@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Hari](harimasoor.com)! 😁
+Hi, I am [Hari](harimasoor.com)! 😁
 
 Hi random person looking at my profile! I am Hari Masoor, part-time coder - and full-time dog father. My experiences range from working at the virtualization market leader VMware, working at the cybersecurity market leader Palo Alto Networks, to working at the blockchain infrastructure provider QuickNode. 
 
