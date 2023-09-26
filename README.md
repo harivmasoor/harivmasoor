@@ -25,7 +25,4 @@ Hi random person looking at my profile! I am Hari Masoor, part-time coder - and 
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=harivmasoor&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harivmasoor&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=harivmasoor.harivmasoor)
