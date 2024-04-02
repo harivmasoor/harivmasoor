@@ -4,7 +4,7 @@ Hi random person looking at my profile! I am Hari Masoor, part-time coder - and 
 - 🔭 I’m currently obsessed with AI and expoloring everything the OpenAI API can do!
 - 💬 Brainstorm with me over tech, algorithms, career, and music. Check out my [Portfolio](https://harimasoor.com)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harimasoor)
-- ⚡ Fun fact: 1 week away from being a father 
+- ⚡ Fun fact: Father of Nala Elizabeth Rose Masoor 10/20/2023
 - 📝 [Resume](https://drive.google.com/file/d/1dgp_Pqp4wavnPDr-JWz2xmUrymQHAYB8/view?usp=sharing)
 
 **Languages and Tools:** 
