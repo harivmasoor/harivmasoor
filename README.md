@@ -1,11 +1,10 @@
-Hi random person looking at my profile! I am Hari Masoor, part-time coder - and full-time dog father. My experiences range from working at the virtualization market leader VMware, working at the cybersecurity market leader Palo Alto Networks, to working at the blockchain infrastructure provider QuickNode. 
+Hi random person looking at my profile! I am Hari Masoor, part-time coder - and full-time girl dad and dog father. My experiences range from working at the virtualization market leader VMware, working at the cybersecurity market leader Palo Alto Networks, to working at the blockchain infrastructure provider QuickNode - Now I am 100% AI/ML and aim to be for the rest of my career.
 
 
 - 🔭 I’m currently a prompt engineer with Verizon!
 - 💬 Brainstorm with me over tech, algorithms, career, and music. Check out my [Portfolio](https://harimasoor.com)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harimasoor)
 - ⚡ Fun fact: Father of Nala 2023
-- 📝 [Resume](https://drive.google.com/file/d/1dgp_Pqp4wavnPDr-JWz2xmUrymQHAYB8/view?usp=sharing)
 
 **Languages and Tools:** 
 
